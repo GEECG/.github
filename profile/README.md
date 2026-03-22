@@ -1,19 +1,28 @@
-## [GEECG] 银编作者社群
+## \[GEECG\] 银编作者社区
 
-👋 欢迎加入星际争霸2银河编辑器地图作者交流联络社群。
+👋 欢迎加入星际作者交流联络社群。
 
 我们欢迎、期待每一位作者的加入，也希望你邀约更多的作者加入我们。
 
 共同建设银河编辑器和星际争霸社群。
 
+## 交流社区
 
-<!--
+### 星际编辑器内容开发者/创作者内容交流社区：
+- \[GEECG\] 银编作者社群：769297049
+- 星际编辑器学习、技术交流、内容创作讨论
+- 星际对战地图、自定义地图、自定义战役、模组创作交流
 
-**Here are some ideas to get you started:**
+### 星际软件/应用/程序开发者/创作者交流社区
+- \[GEECG\] 星际开发者茶馆：867381508
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 星际文献文档创作交流社区：
+- \[GEECG\] 银河文献馆：962594451
+
+### 星际枢纽社区应用用户交流社区：
+- 星际枢纽用户交流社群：857601125
+
+###  星际争霸2内容讨论频道
+- 星际2社区：starcraft2
+
+
